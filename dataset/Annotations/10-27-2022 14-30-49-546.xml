@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>10-27-2022 14-30-49-546.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>840</width>
+    <height>630</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Human</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>411.7</xmin>
+      <ymin>114.4</ymin>
+      <xmax>617.54</xmax>
+      <ymax>147.71</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
